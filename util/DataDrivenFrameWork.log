@@ -1,0 +1,5 @@
+2018-07-30 22:04:08 log.py[line:19] INFO hi
+2018-07-30 22:04:23 log.py[line:19] INFO hi
+2018-07-30 22:04:42 log.py[line:19] INFO hi
+2018-07-30 22:04:42 log.py[line:15] ERROR world!
+2018-07-30 22:04:42 log.py[line:23] WARNING gloryroad!

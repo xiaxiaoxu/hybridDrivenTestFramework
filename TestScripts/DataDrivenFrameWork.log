@@ -1,0 +1,556 @@
+2018-07-30 22:04:48 dataAndKeywordDriven.py[line:21] INFO 当前sheet：测试用例
+2018-07-30 22:04:48 dataAndKeywordDriven.py[line:30] INFO #####执行关键字驱动框架#####
+2018-07-30 22:04:48 keyWord.py[line:36] INFO 打开浏览器
+2018-07-30 22:04:57 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:04:57 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:04:57 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:04:57 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:04:57 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:04:57 keyWord.py[line:36] INFO 访问被测试网址http://www.126.com
+2018-07-30 22:05:02 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:02 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:02 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:02 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:02 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:02 keyWord.py[line:36] INFO 最大化窗口
+2018-07-30 22:05:02 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:02 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:02 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:02 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:02 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:02 keyWord.py[line:36] INFO 等待126邮箱登录主页加载完成
+2018-07-30 22:05:07 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:07 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:07 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:07 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:07 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:08 keyWord.py[line:36] INFO 断言当前活动页面源码中是否包含“126网易免费邮--你的专业电子邮局”
+2018-07-30 22:05:08 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:08 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:08 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:08 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:08 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:08 keyWord.py[line:36] INFO 显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中
+2018-07-30 22:05:08 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:08 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:08 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:08 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:08 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:08 keyWord.py[line:36] INFO 清除用户名输入框中的缓存用户性
+2018-07-30 22:05:08 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:08 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:08 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:08 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:08 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:09 keyWord.py[line:36] INFO 输入登录用户名
+2018-07-30 22:05:09 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:09 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:09 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:09 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:09 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:09 keyWord.py[line:36] INFO 输入登录密码
+2018-07-30 22:05:09 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:09 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:09 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:09 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:09 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:09 keyWord.py[line:36] INFO 点击登录按钮
+2018-07-30 22:05:10 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:10 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:10 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:10 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:10 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:10 keyWord.py[line:36] INFO 等待
+2018-07-30 22:05:15 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:15 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:15 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:15 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:15 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:15 keyWord.py[line:36] INFO 切回默认会话窗体
+2018-07-30 22:05:15 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:15 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:15 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:15 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:15 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:16 keyWord.py[line:36] INFO 断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容
+2018-07-30 22:05:16 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:16 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:16 writeResult.py[line:32] INFO result:fail
+2018-07-30 22:05:16 writeResult.py[line:37] INFO errorInfo:Traceback (most recent call last):
+  File "D:\test\hybrid_version2\TestScripts\keyWord.py", line 39, in keyWordFunction
+    eval(command)
+  File "<string>", line 1, in <module>
+NameError: name 'assert_title1' is not defined
+
+2018-07-30 22:05:16 writeResult.py[line:38] INFO captureScreenPath:D:\test\hybrid_version2\errorScreenShots\2018-07-30\22-05-16-050000.png
+2018-07-30 22:05:16 dataAndKeywordDriven.py[line:32] INFO result:0
+2018-07-30 22:05:16 writeResult.py[line:11] INFO 当前所在sheet: 登录
+2018-07-30 22:05:16 writeResult.py[line:20] INFO sheetType1:testCase
+2018-07-30 22:05:16 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:8
+2018-07-30 22:05:16 writeResult.py[line:25] INFO result-1:失败
+2018-07-30 22:05:16 dataAndKeywordDriven.py[line:39] INFO #####执行数据驱动框架#####
+2018-07-30 22:05:16 dataDriven.py[line:17] INFO 步骤sheet：创建联系人
+2018-07-30 22:05:16 dataDriven.py[line:18] INFO 数据源sheet: 联系人
+2018-07-30 22:05:16 dataDriven.py[line:49] INFO 点击“通讯录”链接，进入通讯录页面
+2018-07-30 22:05:17 dataDriven.py[line:57] INFO 执行步骤-点击“通讯录”链接，进入通讯录页面-成功
+2018-07-30 22:05:17 dataDriven.py[line:49] INFO 显示等待“新建联系人”按钮在页面上可见
+2018-07-30 22:05:17 dataDriven.py[line:57] INFO 执行步骤-显示等待“新建联系人”按钮在页面上可见-成功
+2018-07-30 22:05:17 dataDriven.py[line:49] INFO 点击“新建联系人”按钮
+2018-07-30 22:05:18 dataDriven.py[line:57] INFO 执行步骤-点击“新建联系人”按钮-成功
+2018-07-30 22:05:18 dataDriven.py[line:49] INFO 显示等待输入联系人姓名框是否在页面上可见
+2018-07-30 22:05:18 dataDriven.py[line:57] INFO 执行步骤-显示等待输入联系人姓名框是否在页面上可见-成功
+2018-07-30 22:05:18 dataDriven.py[line:41] INFO operateValue:sr
+2018-07-30 22:05:18 dataDriven.py[line:49] INFO 输入联系人姓名
+2018-07-30 22:05:18 dataDriven.py[line:57] INFO 执行步骤-输入联系人姓名-成功
+2018-07-30 22:05:18 dataDriven.py[line:41] INFO operateValue:sr@qq.com
+2018-07-30 22:05:18 dataDriven.py[line:49] INFO 输入电子邮箱
+2018-07-30 22:05:18 dataDriven.py[line:57] INFO 执行步骤-输入电子邮箱-成功
+2018-07-30 22:05:18 dataDriven.py[line:41] INFO operateValue:否
+2018-07-30 22:05:18 dataDriven.py[line:49] INFO 设为星标联系人
+2018-07-30 22:05:18 dataDriven.py[line:57] INFO 执行步骤-设为星标联系人-成功
+2018-07-30 22:05:18 dataDriven.py[line:41] INFO operateValue:18141134488
+2018-07-30 22:05:18 dataDriven.py[line:49] INFO 输入手机号
+2018-07-30 22:05:18 dataDriven.py[line:57] INFO 执行步骤-输入手机号-成功
+2018-07-30 22:05:18 dataDriven.py[line:41] INFO operateValue:star
+2018-07-30 22:05:18 dataDriven.py[line:49] INFO 输入联系人备注信息
+2018-07-30 22:05:18 dataDriven.py[line:57] INFO 执行步骤-输入联系人备注信息-成功
+2018-07-30 22:05:18 dataDriven.py[line:49] INFO 点击“确认”按钮保存新联系人
+2018-07-30 22:05:19 dataDriven.py[line:57] INFO 执行步骤-点击“确认”按钮保存新联系人-成功
+2018-07-30 22:05:19 dataDriven.py[line:49] INFO 等待2秒
+2018-07-30 22:05:21 dataDriven.py[line:57] INFO 执行步骤-等待2秒-成功
+2018-07-30 22:05:21 dataDriven.py[line:41] INFO operateValue:sr@qq.com
+2018-07-30 22:05:21 dataDriven.py[line:49] INFO 断言联系人是否成功添加
+2018-07-30 22:05:21 dataDriven.py[line:57] INFO 执行步骤-断言联系人是否成功添加-成功
+2018-07-30 22:05:21 dataDriven.py[line:61] INFO 添加联系人-wcx@qq.com-成功
+2018-07-30 22:05:21 writeResult.py[line:11] INFO 当前所在sheet: 联系人
+2018-07-30 22:05:21 writeResult.py[line:20] INFO sheetType1:dataSheet
+2018-07-30 22:05:21 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:8
+2018-07-30 22:05:21 writeResult.py[line:25] INFO result-1:pass
+2018-07-30 22:05:21 writeResult.py[line:11] INFO 当前所在sheet: 联系人
+2018-07-30 22:05:21 writeResult.py[line:20] INFO sheetType1:dataSheet
+2018-07-30 22:05:21 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:8
+2018-07-30 22:05:21 writeResult.py[line:28] INFO result-2:忽略
+2018-07-30 22:05:21 writeResult.py[line:11] INFO 当前所在sheet: 联系人
+2018-07-30 22:05:21 writeResult.py[line:20] INFO sheetType1:dataSheet
+2018-07-30 22:05:21 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:8
+2018-07-30 22:05:21 writeResult.py[line:28] INFO result-2:忽略
+2018-07-30 22:05:21 dataDriven.py[line:49] INFO 点击“通讯录”链接，进入通讯录页面
+2018-07-30 22:05:21 dataDriven.py[line:57] INFO 执行步骤-点击“通讯录”链接，进入通讯录页面-成功
+2018-07-30 22:05:21 dataDriven.py[line:49] INFO 显示等待“新建联系人”按钮在页面上可见
+2018-07-30 22:05:21 dataDriven.py[line:57] INFO 执行步骤-显示等待“新建联系人”按钮在页面上可见-成功
+2018-07-30 22:05:21 dataDriven.py[line:49] INFO 点击“新建联系人”按钮
+2018-07-30 22:05:22 dataDriven.py[line:57] INFO 执行步骤-点击“新建联系人”按钮-成功
+2018-07-30 22:05:22 dataDriven.py[line:49] INFO 显示等待输入联系人姓名框是否在页面上可见
+2018-07-30 22:05:22 dataDriven.py[line:57] INFO 执行步骤-显示等待输入联系人姓名框是否在页面上可见-成功
+2018-07-30 22:05:22 dataDriven.py[line:41] INFO operateValue:lily
+2018-07-30 22:05:22 dataDriven.py[line:49] INFO 输入联系人姓名
+2018-07-30 22:05:22 dataDriven.py[line:57] INFO 执行步骤-输入联系人姓名-成功
+2018-07-30 22:05:22 dataDriven.py[line:41] INFO operateValue:xia@qq.com
+2018-07-30 22:05:22 dataDriven.py[line:49] INFO 输入电子邮箱
+2018-07-30 22:05:22 dataDriven.py[line:57] INFO 执行步骤-输入电子邮箱-成功
+2018-07-30 22:05:22 dataDriven.py[line:41] INFO operateValue:是
+2018-07-30 22:05:22 dataDriven.py[line:49] INFO 设为星标联系人
+2018-07-30 22:05:22 dataDriven.py[line:57] INFO 执行步骤-设为星标联系人-成功
+2018-07-30 22:05:22 dataDriven.py[line:41] INFO operateValue:18141134488
+2018-07-30 22:05:22 dataDriven.py[line:49] INFO 输入手机号
+2018-07-30 22:05:22 dataDriven.py[line:57] INFO 执行步骤-输入手机号-成功
+2018-07-30 22:05:22 dataDriven.py[line:41] INFO operateValue:同事
+2018-07-30 22:05:22 dataDriven.py[line:49] INFO 输入联系人备注信息
+2018-07-30 22:05:22 dataDriven.py[line:57] INFO 执行步骤-输入联系人备注信息-成功
+2018-07-30 22:05:22 dataDriven.py[line:49] INFO 点击“确认”按钮保存新联系人
+2018-07-30 22:05:23 dataDriven.py[line:57] INFO 执行步骤-点击“确认”按钮保存新联系人-成功
+2018-07-30 22:05:23 dataDriven.py[line:49] INFO 等待2秒
+2018-07-30 22:05:25 dataDriven.py[line:57] INFO 执行步骤-等待2秒-成功
+2018-07-30 22:05:25 dataDriven.py[line:41] INFO operateValue:xia@qq.com
+2018-07-30 22:05:25 dataDriven.py[line:49] INFO 断言联系人是否成功添加
+2018-07-30 22:05:25 dataDriven.py[line:57] INFO 执行步骤-断言联系人是否成功添加-成功
+2018-07-30 22:05:25 dataDriven.py[line:61] INFO 添加联系人-amy@qq.com-成功
+2018-07-30 22:05:25 writeResult.py[line:11] INFO 当前所在sheet: 联系人
+2018-07-30 22:05:25 writeResult.py[line:20] INFO sheetType1:dataSheet
+2018-07-30 22:05:25 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:8
+2018-07-30 22:05:25 writeResult.py[line:25] INFO result-1:pass
+2018-07-30 22:05:25 writeResult.py[line:11] INFO 当前所在sheet: 联系人
+2018-07-30 22:05:25 writeResult.py[line:20] INFO sheetType1:dataSheet
+2018-07-30 22:05:25 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:8
+2018-07-30 22:05:25 writeResult.py[line:28] INFO result-2:忽略
+2018-07-30 22:05:25 writeResult.py[line:11] INFO 当前所在sheet: 联系人
+2018-07-30 22:05:25 writeResult.py[line:20] INFO sheetType1:dataSheet
+2018-07-30 22:05:25 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:8
+2018-07-30 22:05:25 writeResult.py[line:28] INFO result-2:忽略
+2018-07-30 22:05:25 writeResult.py[line:11] INFO 当前所在sheet: 联系人
+2018-07-30 22:05:25 writeResult.py[line:20] INFO sheetType1:dataSheet
+2018-07-30 22:05:25 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:8
+2018-07-30 22:05:25 writeResult.py[line:25] INFO result-1:成功
+2018-07-30 22:05:25 dataAndKeywordDriven.py[line:30] INFO #####执行关键字驱动框架#####
+2018-07-30 22:05:25 keyWord.py[line:36] INFO 点击“首页”链接，进入邮箱首页
+2018-07-30 22:05:26 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:26 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:26 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:26 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:26 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:26 keyWord.py[line:36] INFO 判断“写信”按钮是否在页面上可见
+2018-07-30 22:05:26 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:26 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:26 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:26 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:26 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:26 keyWord.py[line:36] INFO 点击“写信”按钮
+2018-07-30 22:05:27 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:27 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:27 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:27 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:27 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:27 keyWord.py[line:36] INFO 输入收件人地址
+2018-07-30 22:05:27 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:27 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:27 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:28 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:28 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:28 keyWord.py[line:36] INFO 输入邮件主题
+2018-07-30 22:05:28 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:28 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:28 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:28 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:28 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:28 keyWord.py[line:36] INFO 点击“上传附件”链接
+2018-07-30 22:05:28 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:28 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:28 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:29 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:29 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:29 keyWord.py[line:36] INFO 显示等待附件上传完成
+2018-07-30 22:05:29 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:29 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:29 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:29 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:29 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:30 keyWord.py[line:36] INFO 如果邮件正文的frame框是否可见，切换进该frame中
+2018-07-30 22:05:30 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:30 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:30 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:30 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:30 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:30 keyWord.py[line:36] INFO 输入邮件正文
+2018-07-30 22:05:30 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:30 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:30 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:30 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:30 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:30 keyWord.py[line:36] INFO 退出邮件正文的frame
+2018-07-30 22:05:30 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:30 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:30 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:31 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:31 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:31 keyWord.py[line:36] INFO 点击邮件发送按钮
+2018-07-30 22:05:31 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:31 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:31 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:31 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:31 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:31 keyWord.py[line:36] INFO 等待邮件发送成功，返回结果
+2018-07-30 22:05:34 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:34 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:34 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:34 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:34 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:35 keyWord.py[line:36] INFO 断言页面源码中是否出现“发送成功”关键内容
+2018-07-30 22:05:35 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:35 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:35 writeResult.py[line:32] INFO result:pass
+2018-07-30 22:05:35 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]9
+2018-07-30 22:05:35 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]8
+2018-07-30 22:05:35 keyWord.py[line:36] INFO 关闭浏览器
+2018-07-30 22:05:35 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:35 writeResult.py[line:31] INFO sheetType2:caseStep
+2018-07-30 22:05:35 writeResult.py[line:32] INFO result:fail
+2018-07-30 22:05:35 writeResult.py[line:37] INFO errorInfo:Traceback (most recent call last):
+  File "D:\test\hybrid_version2\TestScripts\keyWord.py", line 39, in keyWordFunction
+    eval(command)
+  File "<string>", line 1, in <module>
+NameError: name 'close_browser1' is not defined
+
+2018-07-30 22:05:35 writeResult.py[line:38] INFO captureScreenPath:D:\test\hybrid_version2\errorScreenShots\2018-07-30\22-05-35-362000.png
+2018-07-30 22:05:35 dataAndKeywordDriven.py[line:32] INFO result:0
+2018-07-30 22:05:35 writeResult.py[line:11] INFO 当前所在sheet: 发邮件
+2018-07-30 22:05:35 writeResult.py[line:20] INFO sheetType1:testCase
+2018-07-30 22:05:35 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:8
+2018-07-30 22:05:35 writeResult.py[line:25] INFO result-1:失败
+2018-07-30 22:10:51 dataAndKeywordDriven.py[line:21] INFO 当前sheet：u'测试用例'
+2018-07-30 22:10:51 dataAndKeywordDriven.py[line:30] INFO #####执行关键字驱动框架#####
+2018-07-30 22:10:51 keyWord.py[line:36] INFO 打开浏览器
+2018-07-30 22:11:00 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:00 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:00 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:00 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:00 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:00 keyWord.py[line:36] INFO 访问被测试网址http://www.126.com
+2018-07-30 22:11:04 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:04 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:04 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:04 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:04 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:04 keyWord.py[line:36] INFO 最大化窗口
+2018-07-30 22:11:04 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:04 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:04 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:04 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:04 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:04 keyWord.py[line:36] INFO 等待126邮箱登录主页加载完成
+2018-07-30 22:11:09 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:09 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:09 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:10 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:10 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:10 keyWord.py[line:36] INFO 断言当前活动页面源码中是否包含“126网易免费邮--你的专业电子邮局”
+2018-07-30 22:11:10 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:10 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:10 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:10 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:10 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:10 keyWord.py[line:36] INFO 显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中
+2018-07-30 22:11:10 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:10 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:10 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:10 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:10 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:10 keyWord.py[line:36] INFO 清除用户名输入框中的缓存用户性
+2018-07-30 22:11:10 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:10 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:10 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:11 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:11 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:11 keyWord.py[line:36] INFO 输入登录用户名
+2018-07-30 22:11:11 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:11 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:11 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:11 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:11 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:11 keyWord.py[line:36] INFO 输入登录密码
+2018-07-30 22:11:11 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:11 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:11 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:12 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:12 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:12 keyWord.py[line:36] INFO 点击登录按钮
+2018-07-30 22:11:12 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:12 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:12 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:12 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:12 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:12 keyWord.py[line:36] INFO 等待
+2018-07-30 22:11:17 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:17 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:17 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:18 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:18 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:18 keyWord.py[line:36] INFO 切回默认会话窗体
+2018-07-30 22:11:18 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:18 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:18 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:18 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:18 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:18 keyWord.py[line:36] INFO 断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容
+2018-07-30 22:11:18 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:18 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:18 writeResult.py[line:32] INFO result:u'fail'
+2018-07-30 22:11:18 writeResult.py[line:37] INFO errorInfo:Traceback (most recent call last):
+  File "D:\test\hybrid_version2\TestScripts\keyWord.py", line 39, in keyWordFunction
+    eval(command)
+  File "<string>", line 1, in <module>
+NameError: name 'assert_title1' is not defined
+
+2018-07-30 22:11:18 writeResult.py[line:38] INFO captureScreenPath:D:\test\hybrid_version2\errorScreenShots\2018-07-30\22-11-18-509000.png
+2018-07-30 22:11:19 dataAndKeywordDriven.py[line:32] INFO result:u'0'
+2018-07-30 22:11:19 writeResult.py[line:11] INFO 当前所在sheet: u'登录'
+2018-07-30 22:11:19 writeResult.py[line:20] INFO sheetType1:u'testCase'
+2018-07-30 22:11:19 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:u'8'
+2018-07-30 22:11:19 writeResult.py[line:25] INFO result-1:失败
+2018-07-30 22:11:19 dataAndKeywordDriven.py[line:39] INFO #####执行数据驱动框架#####
+2018-07-30 22:11:19 dataDriven.py[line:17] INFO 步骤sheet：u'创建联系人'
+2018-07-30 22:11:19 dataDriven.py[line:18] INFO 数据源sheet: u'联系人'
+2018-07-30 22:11:19 dataDriven.py[line:49] INFO 点击“通讯录”链接，进入通讯录页面
+2018-07-30 22:11:19 dataDriven.py[line:57] INFO 执行步骤-u'点击“通讯录”链接，进入通讯录页面'-成功
+2018-07-30 22:11:19 dataDriven.py[line:49] INFO 显示等待“新建联系人”按钮在页面上可见
+2018-07-30 22:11:21 dataDriven.py[line:57] INFO 执行步骤-u'显示等待“新建联系人”按钮在页面上可见'-成功
+2018-07-30 22:11:21 dataDriven.py[line:49] INFO 点击“新建联系人”按钮
+2018-07-30 22:11:22 dataDriven.py[line:57] INFO 执行步骤-u'点击“新建联系人”按钮'-成功
+2018-07-30 22:11:22 dataDriven.py[line:49] INFO 显示等待输入联系人姓名框是否在页面上可见
+2018-07-30 22:11:22 dataDriven.py[line:57] INFO 执行步骤-u'显示等待输入联系人姓名框是否在页面上可见'-成功
+2018-07-30 22:11:22 dataDriven.py[line:41] INFO operateValue:u'sr'
+2018-07-30 22:11:22 dataDriven.py[line:49] INFO 输入联系人姓名
+2018-07-30 22:11:22 dataDriven.py[line:57] INFO 执行步骤-u'输入联系人姓名'-成功
+2018-07-30 22:11:22 dataDriven.py[line:41] INFO operateValue:u'sr@qq.com'
+2018-07-30 22:11:22 dataDriven.py[line:49] INFO 输入电子邮箱
+2018-07-30 22:11:22 dataDriven.py[line:57] INFO 执行步骤-u'输入电子邮箱'-成功
+2018-07-30 22:11:22 dataDriven.py[line:41] INFO operateValue:u'否'
+2018-07-30 22:11:22 dataDriven.py[line:49] INFO 设为星标联系人
+2018-07-30 22:11:22 dataDriven.py[line:57] INFO 执行步骤-u'设为星标联系人'-成功
+2018-07-30 22:11:22 dataDriven.py[line:41] INFO operateValue:u'18141134488'
+2018-07-30 22:11:22 dataDriven.py[line:49] INFO 输入手机号
+2018-07-30 22:11:22 dataDriven.py[line:57] INFO 执行步骤-u'输入手机号'-成功
+2018-07-30 22:11:22 dataDriven.py[line:41] INFO operateValue:u'star'
+2018-07-30 22:11:22 dataDriven.py[line:49] INFO 输入联系人备注信息
+2018-07-30 22:11:22 dataDriven.py[line:57] INFO 执行步骤-u'输入联系人备注信息'-成功
+2018-07-30 22:11:22 dataDriven.py[line:49] INFO 点击“确认”按钮保存新联系人
+2018-07-30 22:11:23 dataDriven.py[line:57] INFO 执行步骤-u'点击“确认”按钮保存新联系人'-成功
+2018-07-30 22:11:23 dataDriven.py[line:49] INFO 等待2秒
+2018-07-30 22:11:25 dataDriven.py[line:57] INFO 执行步骤-u'等待2秒'-成功
+2018-07-30 22:11:25 dataDriven.py[line:41] INFO operateValue:u'sr@qq.com'
+2018-07-30 22:11:25 dataDriven.py[line:49] INFO 断言联系人是否成功添加
+2018-07-30 22:11:25 dataDriven.py[line:57] INFO 执行步骤-u'断言联系人是否成功添加'-成功
+2018-07-30 22:11:25 dataDriven.py[line:61] INFO 添加联系人-u'wcx@qq.com'-成功
+2018-07-30 22:11:25 writeResult.py[line:11] INFO 当前所在sheet: u'联系人'
+2018-07-30 22:11:25 writeResult.py[line:20] INFO sheetType1:u'dataSheet'
+2018-07-30 22:11:25 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:u'8'
+2018-07-30 22:11:25 writeResult.py[line:25] INFO result-1:pass
+2018-07-30 22:11:25 writeResult.py[line:11] INFO 当前所在sheet: u'联系人'
+2018-07-30 22:11:25 writeResult.py[line:20] INFO sheetType1:u'dataSheet'
+2018-07-30 22:11:25 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:u'8'
+2018-07-30 22:11:25 writeResult.py[line:28] INFO result-2:u'忽略'
+2018-07-30 22:11:25 writeResult.py[line:11] INFO 当前所在sheet: u'联系人'
+2018-07-30 22:11:25 writeResult.py[line:20] INFO sheetType1:u'dataSheet'
+2018-07-30 22:11:25 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:u'8'
+2018-07-30 22:11:25 writeResult.py[line:28] INFO result-2:u'忽略'
+2018-07-30 22:11:25 dataDriven.py[line:49] INFO 点击“通讯录”链接，进入通讯录页面
+2018-07-30 22:11:25 dataDriven.py[line:57] INFO 执行步骤-u'点击“通讯录”链接，进入通讯录页面'-成功
+2018-07-30 22:11:25 dataDriven.py[line:49] INFO 显示等待“新建联系人”按钮在页面上可见
+2018-07-30 22:11:25 dataDriven.py[line:57] INFO 执行步骤-u'显示等待“新建联系人”按钮在页面上可见'-成功
+2018-07-30 22:11:25 dataDriven.py[line:49] INFO 点击“新建联系人”按钮
+2018-07-30 22:11:26 dataDriven.py[line:57] INFO 执行步骤-u'点击“新建联系人”按钮'-成功
+2018-07-30 22:11:26 dataDriven.py[line:49] INFO 显示等待输入联系人姓名框是否在页面上可见
+2018-07-30 22:11:26 dataDriven.py[line:57] INFO 执行步骤-u'显示等待输入联系人姓名框是否在页面上可见'-成功
+2018-07-30 22:11:26 dataDriven.py[line:41] INFO operateValue:u'lily'
+2018-07-30 22:11:26 dataDriven.py[line:49] INFO 输入联系人姓名
+2018-07-30 22:11:26 dataDriven.py[line:57] INFO 执行步骤-u'输入联系人姓名'-成功
+2018-07-30 22:11:26 dataDriven.py[line:41] INFO operateValue:u'xia@qq.com'
+2018-07-30 22:11:26 dataDriven.py[line:49] INFO 输入电子邮箱
+2018-07-30 22:11:26 dataDriven.py[line:57] INFO 执行步骤-u'输入电子邮箱'-成功
+2018-07-30 22:11:26 dataDriven.py[line:41] INFO operateValue:u'是'
+2018-07-30 22:11:26 dataDriven.py[line:49] INFO 设为星标联系人
+2018-07-30 22:11:26 dataDriven.py[line:57] INFO 执行步骤-u'设为星标联系人'-成功
+2018-07-30 22:11:26 dataDriven.py[line:41] INFO operateValue:u'18141134488'
+2018-07-30 22:11:26 dataDriven.py[line:49] INFO 输入手机号
+2018-07-30 22:11:26 dataDriven.py[line:57] INFO 执行步骤-u'输入手机号'-成功
+2018-07-30 22:11:26 dataDriven.py[line:41] INFO operateValue:u'同事'
+2018-07-30 22:11:26 dataDriven.py[line:49] INFO 输入联系人备注信息
+2018-07-30 22:11:26 dataDriven.py[line:57] INFO 执行步骤-u'输入联系人备注信息'-成功
+2018-07-30 22:11:26 dataDriven.py[line:49] INFO 点击“确认”按钮保存新联系人
+2018-07-30 22:11:27 dataDriven.py[line:57] INFO 执行步骤-u'点击“确认”按钮保存新联系人'-成功
+2018-07-30 22:11:27 dataDriven.py[line:49] INFO 等待2秒
+2018-07-30 22:11:29 dataDriven.py[line:57] INFO 执行步骤-u'等待2秒'-成功
+2018-07-30 22:11:29 dataDriven.py[line:41] INFO operateValue:u'xia@qq.com'
+2018-07-30 22:11:29 dataDriven.py[line:49] INFO 断言联系人是否成功添加
+2018-07-30 22:11:29 dataDriven.py[line:57] INFO 执行步骤-u'断言联系人是否成功添加'-成功
+2018-07-30 22:11:29 dataDriven.py[line:61] INFO 添加联系人-u'amy@qq.com'-成功
+2018-07-30 22:11:29 writeResult.py[line:11] INFO 当前所在sheet: u'联系人'
+2018-07-30 22:11:29 writeResult.py[line:20] INFO sheetType1:u'dataSheet'
+2018-07-30 22:11:29 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:u'8'
+2018-07-30 22:11:29 writeResult.py[line:25] INFO result-1:pass
+2018-07-30 22:11:29 writeResult.py[line:11] INFO 当前所在sheet: u'联系人'
+2018-07-30 22:11:29 writeResult.py[line:20] INFO sheetType1:u'dataSheet'
+2018-07-30 22:11:29 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:u'8'
+2018-07-30 22:11:29 writeResult.py[line:28] INFO result-2:u'忽略'
+2018-07-30 22:11:29 writeResult.py[line:11] INFO 当前所在sheet: u'联系人'
+2018-07-30 22:11:29 writeResult.py[line:20] INFO sheetType1:u'dataSheet'
+2018-07-30 22:11:29 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:u'8'
+2018-07-30 22:11:29 writeResult.py[line:28] INFO result-2:u'忽略'
+2018-07-30 22:11:29 writeResult.py[line:11] INFO 当前所在sheet: u'联系人'
+2018-07-30 22:11:29 writeResult.py[line:20] INFO sheetType1:u'dataSheet'
+2018-07-30 22:11:29 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:u'8'
+2018-07-30 22:11:29 writeResult.py[line:25] INFO result-1:成功
+2018-07-30 22:11:29 dataAndKeywordDriven.py[line:30] INFO #####执行关键字驱动框架#####
+2018-07-30 22:11:29 keyWord.py[line:36] INFO 点击“首页”链接，进入邮箱首页
+2018-07-30 22:11:30 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:30 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:30 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:30 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:30 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:30 keyWord.py[line:36] INFO 判断“写信”按钮是否在页面上可见
+2018-07-30 22:11:30 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:30 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:30 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:30 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:30 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:30 keyWord.py[line:36] INFO 点击“写信”按钮
+2018-07-30 22:11:31 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:31 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:31 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:31 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:31 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:31 keyWord.py[line:36] INFO 输入收件人地址
+2018-07-30 22:11:31 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:31 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:31 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:32 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:32 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:32 keyWord.py[line:36] INFO 输入邮件主题
+2018-07-30 22:11:32 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:32 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:32 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:32 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:32 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:32 keyWord.py[line:36] INFO 点击“上传附件”链接
+2018-07-30 22:11:32 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:32 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:32 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:32 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:32 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:33 keyWord.py[line:36] INFO 显示等待附件上传完成
+2018-07-30 22:11:33 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:33 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:33 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:33 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:33 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:33 keyWord.py[line:36] INFO 如果邮件正文的frame框是否可见，切换进该frame中
+2018-07-30 22:11:33 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:33 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:33 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:34 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:34 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:34 keyWord.py[line:36] INFO 输入邮件正文
+2018-07-30 22:11:34 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:34 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:34 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:34 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:34 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:34 keyWord.py[line:36] INFO 退出邮件正文的frame
+2018-07-30 22:11:34 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:34 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:34 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:34 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:34 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:35 keyWord.py[line:36] INFO 点击邮件发送按钮
+2018-07-30 22:11:35 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:35 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:35 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:35 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:35 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:35 keyWord.py[line:36] INFO 等待邮件发送成功，返回结果
+2018-07-30 22:11:38 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:38 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:38 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:38 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:38 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:39 keyWord.py[line:36] INFO 断言页面源码中是否出现“发送成功”关键内容
+2018-07-30 22:11:39 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:39 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:39 writeResult.py[line:32] INFO result:u'pass'
+2018-07-30 22:11:39 writeResult.py[line:42] INFO sheetTypeDict[sheetType][3]u'9'
+2018-07-30 22:11:39 writeResult.py[line:43] INFO sheetTypeDict[sheetType][2]u'8'
+2018-07-30 22:11:39 keyWord.py[line:36] INFO 关闭浏览器
+2018-07-30 22:11:39 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:39 writeResult.py[line:31] INFO sheetType2:u'caseStep'
+2018-07-30 22:11:39 writeResult.py[line:32] INFO result:u'fail'
+2018-07-30 22:11:39 writeResult.py[line:37] INFO errorInfo:Traceback (most recent call last):
+  File "D:\test\hybrid_version2\TestScripts\keyWord.py", line 39, in keyWordFunction
+    eval(command)
+  File "<string>", line 1, in <module>
+NameError: name 'close_browser1' is not defined
+
+2018-07-30 22:11:39 writeResult.py[line:38] INFO captureScreenPath:D:\test\hybrid_version2\errorScreenShots\2018-07-30\22-11-39-419000.png
+2018-07-30 22:11:40 dataAndKeywordDriven.py[line:32] INFO result:u'0'
+2018-07-30 22:11:40 writeResult.py[line:11] INFO 当前所在sheet: u'发邮件'
+2018-07-30 22:11:40 writeResult.py[line:20] INFO sheetType1:u'testCase'
+2018-07-30 22:11:40 writeResult.py[line:21] INFO sheetTypeDict[sheetType][1]:u'8'
+2018-07-30 22:11:40 writeResult.py[line:25] INFO result-1:失败

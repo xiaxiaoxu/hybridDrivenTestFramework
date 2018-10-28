@@ -1,0 +1,84 @@
+1532959851346	geckodriver	INFO	geckodriver 0.19.1
+1532959851362	geckodriver	INFO	Listening on 127.0.0.1:54251
+1532959854445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile.fwUtCK3KjCWk"
+Unable to read VR Path Registry from C:\Users\Lenovo\AppData\Local\openvr\openvrpaths.vrpath
+1532959856776	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Lenovo\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532959859862	Marionette	INFO	Listening on port 54259
+1532959859863	Marionette	INFO	Listening on port 54259
+1532959860196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532959860276	Marionette	DEBUG	loaded listener.js
+1532959860711	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1532959861315	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1532959861316	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1532959862196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1532959862197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1532959862202	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1532959862231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1532959862234	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1532959862696	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1532959862697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1532959864165	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/m126_1.0.1/pub/index_dl.html?wdaId=&pkid=QdQXWEQ&product=mail126"
+1532959864167	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/m126_1.0.1/pub/index_dl.html?wdaId=&pkid=QdQXWEQ&product=mail126"
+1532959864172	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1532959872480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532959879772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://s3.music.126.net/web/s/core.js?142a4e2d62ff669229ea4470a9d5273b, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer.js?114e8db04864be5a048170e8b0a815c7, line 11: unreachable code after return statement
+JavaScript error: https://s3.music.126.net/web/s/pt_musicbox_mailplayer.js?114e8db04864be5a048170e8b0a815c7, line 1: TypeError: q0x.mo5t.M0x is not a function
+1532959881999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532959883010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532959885747	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532959886163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532959886800	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532959887277	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532959890010	Marionette	DEBUG	Received DOM event "pagehide" for "https://mail.126.com/js6/main.jsp?sid=OAAzzWKvfKzLKosPTYvvzvbdbUaJPKyY&df=mail126_letter#module=welcome.WelcomeModule%7C%7B%7D"
+1532959890011	Marionette	DEBUG	Received DOM event "pagehide" for "https://mail.126.com/js6/main.jsp?sid=OAAzzWKvfKzLKosPTYvvzvbdbUaJPKyY&df=mail126_letter#module=welcome.WelcomeModule%7C%7B%7D"
+1532959890149	Marionette	DEBUG	Received DOM event "hashchange" for "https://mail.126.com/js6/main.jsp?sid=OAAzzWKvfKzLKosPTYvvzvbdbUaJPKyY&df=mail126_letter#module=welcome.WelcomeModule%7C%7B%7D"
+1532959891214	Marionette	DEBUG	Received DOM event "pagehide" for "https://mail.126.com/js6/main.jsp?sid=OAAzzWKvfKzLKosPTYvvzvbdbUaJPKyY&df=mail126_letter#module=welcome.WelcomeModule%7C%7B%7D"
+1532959891217	Marionette	DEBUG	Received DOM event "hashchange" for "https://mail.126.com/js6/main.jsp?sid=OAAzzWKvfKzLKosPTYvvzvbdbUaJPKyY&df=mail126_letter#module=compose.ComposeModule%7C%7B%22type%22%3A%22compose%22%2C%22fullScreen%22%3Atrue%2C%22cid%22%3A%22c%3A1532959889505%22%7D"
+1532959895311	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 11588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000[Parent 5580] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ne 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r: cannot send/recv
+
+ error: cannot send/recv
+
+ 3852] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_cha[Child 9752] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e/common/ipc_channel_win.cc, line 346
+[Child 9752] WARNING: p
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+C%7B%22type%22%3A%22compose%22%2C%22fullScreen%22%3Atrue%2C%22cid%22%3A%22c%3A1532854992360%22%7D"
+1532855002575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532855006559	Marionette	INFO	New connections will no longer be accepted
+t error: chrome://global/content/browser-child.js, line 114: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChanne
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 114: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x28002D,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+(NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 114: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x28002D,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+

@@ -1,0 +1,83 @@
+1532697657781	geckodriver	INFO	geckodriver 0.19.1
+1532697657797	geckodriver	INFO	Listening on 127.0.0.1:63620
+1532697660919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile.q7Davn85eEcc"
+Unable to read VR Path Registry from C:\Users\Lenovo\AppData\Local\openvr\openvrpaths.vrpath
+1532697664331	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Lenovo\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lenovo\AppData\Local\openvr\openvrpaths.vrpath
+1532697666852	Marionette	INFO	Listening on port 63631
+1532697666871	Marionette	INFO	Listening on port 63631
+1532697667264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532697667320	Marionette	DEBUG	loaded listener.js
+1532697667371	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1532697667534	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1532697667535	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1532697668974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://126.com/"
+1532697668978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://126.com/"
+1532697668982	Marionette	DEBUG	Received DOM event "pageshow" for "http://126.com/"
+1532697669011	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://126.com/"
+1532697669015	Marionette	DEBUG	Received DOM event "pageshow" for "http://126.com/"
+1532697669456	Marionette	DEBUG	Received DOM event "pageshow" for "http://126.com/"
+1532697669457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://126.com/"
+1532697670956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/m126_1.0.1/pub/index_dl.html?wdaId=&pkid=QdQXWEQ&product=mail126"
+1532697670959	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/m126_1.0.1/pub/index_dl.html?wdaId=&pkid=QdQXWEQ&product=mail126"
+1532697670963	Marionette	DEBUG	Received DOM event "pageshow" for "http://126.com/"
+1532697671976	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532697677603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1532697678741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://s3.music.126.net/web/s/core.js?5539de95b51f251999079b35d1260395, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer.js?9c288ef0ae1b45e54ffa36395be6646e, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer.js?9c288ef0ae1b45e54ffa36395be6646e, line 11: unreachable code after return statement
+[GPU 13952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8288]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+6395be6646e, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer.js?9c288ef0ae1b45e54ffa36395be6646e, line 11: unreachable code after return statement
+[Parent 4196] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x28008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x280080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-content.js, line 1586: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 329: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 756: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x28002A,name=PBrowser::Msg_EnableDisableCommands) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x280017,name=PBrowser::Msg_NotifyIMEFocus) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x28002D,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 114: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 114: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 114: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x280001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 114: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x28002D,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
